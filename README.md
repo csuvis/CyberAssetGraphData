@@ -5,4 +5,4 @@ The internet ecosystem is being severely disrupted by cybercrime gangs, such as 
 CyberAssetGraphData is a large-scale cyber asset graph dataset, aiming to promote the development and innovation of advanced data analysis technologies for cybercrime fighting. The dataset is constructed by mining and integrating the information of and associations between cyber assets of cybercrime gangs from heterogeneous online data sources. The dataset has 8 types of cyber assets (nodes) and 11 types of relations (edges) between cyber assets. The dataset contains 2.37 million nodes and 3.28 million edges. 
 
 
-More information about the dataset is available in supplementary materials.
+More information about the dataset is available in supplement materials.
